@@ -5,3 +5,6 @@ pillow
 django-filter==1.1.0
 whoosh
 django-haystack
+
+djongo
+requests
